@@ -47,10 +47,10 @@ This instruction list gives the reader the steps needed to obtain a tidy data se
 Code Book
 =========
 
-The code book below gives each variable in the dataset, its data type and unit; and the description
+The code book below gives each variable in the dataset, its data type and unit; and the description. 
 
-1. Variable: subject; Data Type:  String
-2. Variable: activity; Data Type:  String
+1. Variable: subject; Data Type:  int representing the human who produced the measurement
+2. Variable: activity; Data Type:  String. Type of physical activity that produced
 3. Variable: tBodyAccMeanX; Data Type:  float with no Unit of Measurement
 4. Variable: tBodyAccMeanY; Data Type:  float with no Unit of Measurement
 5. Variable: tBodyAccMeanZ; Data Type:  float with no Unit of Measurement
